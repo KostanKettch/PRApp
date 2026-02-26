@@ -295,10 +295,11 @@
     </plurals>
 
     <plurals name="keep_the_last_added_x_episodes_from_the_same_podcast_">
-        <item quantity="one" tools:ignore="ImpliedQuantity">"Keep the last added one episode from the same podcast."</item>
-        <item quantity="few">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="many">"Keep the last added %1$d episodes from the same podcast."</item>
-        <item quantity="other">"Keep the last added %1$d episodes from the same podcast."</item>
+        <item quantity="one" tools:ignore="ImpliedQuantity">"Оставлять последний добавленный выпуск данного подкаста."</item>
+        <item quantity="few">"Оставлять последние %1$d добавленных выпуска данного подкаста."</item>
+        <item quantity="many">"Оставлять последние %1$d добавленных выпусков данного подкаста."</item>
+        <item quantity="other">"Оставлять %1$d последних добавленных выпуска(ов) данного подкаста."</item>
     </plurals>
 
 </resources>
+
